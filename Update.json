@@ -3,7 +3,7 @@
         "downloadUrl": "https://gitlab.com/jenly1314/AppUpdater/-/raw/master/app/release/app-release.apk"
     },
 
-    "0.2": {
+    "0.1": {
     "versionCode": 0,
     "changelog": ["New automatic update checker", "Improved template interactions"]
     },
