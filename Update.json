@@ -3,8 +3,8 @@
       "downloadUrl64":"Alimsoftware/HardTimeBR/releases/download/ReleaseARM64/app-arm64V8a-release.apk",
 	  "downloadUrl32":"Alimsoftware/HardTimeBR/releases/download/ReleaseARMEABIV7/app-armeabiV7a-release.apk"
    },
-	"1.3":{
-      "versionCode":4,
+	"1.2":{
+      "versionCode":3,
       "changelog":[
          "Versão 1.2 da Tradução",
          "Data de Lançamento: 05/04/2025",
